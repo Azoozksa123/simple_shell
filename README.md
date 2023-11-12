@@ -1,2 +1,1 @@
-# simple_shell
-simple_shell
+just a read me file
